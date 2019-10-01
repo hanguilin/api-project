@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.hanguilin.apiuser.config.MailProperties",
+      "name": "mail",
+      "type": "com.hanguilin.apiuser.config.MailProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.hanguilin.apiuser.config.MailProperties",
+      "name": "mail.from",
+      "type": "java.lang.String"
+    }
+  ]
+}
